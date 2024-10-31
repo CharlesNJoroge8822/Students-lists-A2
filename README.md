@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Live server
+Netify link https://vocal-cendol-135594.netlify.app/
+
 ### `npm start`
 
 Runs the app in the development mode.\
